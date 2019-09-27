@@ -1,21 +1,24 @@
 # README
 
-Build basic contact management system implemented as an API that follows the JSON API spec
+Build a basic contact management system implemented as an API that follows the JSON API spec
 Keywords: Rails, API, JSONAPI, JSONAPI::Resources
 
 ## How to run it:
-1. Clone repo
+1. Clone repo: 
+   ~$ git clone https://github.com/ddeveloperr/017-rails-projects.git
+   ~$ cd /017-rails-projects
 2. ~$  bundle
 3. ~$ rails server
 4.  query all of our contacts using postman, curl or other api tools:
-    Example with curl:
+    
+    Try with curl:
     
     ```
     curl -i -H "Accept: application/vnd.api+json" "http://localhost:3000/contacts"
 
     ```
     
-    You should got the following results in the terminal:
+    You should get the following results in the terminal:
     
     ```
     HTTP/1.1 200 OK
