@@ -6,10 +6,10 @@ Keywords: Rails, API, JSONAPI, JSONAPI::Resources
 ## How to run it:
 1. Clone repo: 
    ~$ git clone https://github.com/ddeveloperr/017-rails-projects.git
-   ~$ cd /017-rails-projects
-2. ~$  bundle
-3. ~$ rails server
-4.  query all of our contacts using postman, curl or other api tools:
+2. ~$ cd /017-rails-projects
+3. ~$  bundle
+4. ~$ rails server
+5.  query all of our contacts using postman, curl or other api tools:
     
     Try with curl:
     
