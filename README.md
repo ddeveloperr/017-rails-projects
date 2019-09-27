@@ -38,9 +38,7 @@ Keywords: Rails, API, JSONAPI, JSONAPI::Resources
     
     You should see:
     
-    ```
-    {
-"data": [
+    ``` { "data": [
               {
               "id": "1",
               "type": "contacts",
